@@ -1,0 +1,15 @@
+POST http://localhost:9988/save
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="img.jpg"
+Content-Type: image/jpeg
+
+< ./down.jpg
+--WebAppBoundary--
+
+###
+
+GET http://localhost:9988/file/d445403b-1582-476f-bc69-e1e89d42a2dd
+
+###

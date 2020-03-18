@@ -1,0 +1,8 @@
+github.com/google/uuid v1.1.1 h1:Gkbcsh/GbpXz7lPftLA3P6TYMwjCLYm83jiFQZF/3gY=
+github.com/google/uuid v1.1.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/shohrukh56/DI v0.0.0-20200318071152-0e1df60fd690 h1:sQARV6d+Q5GHu+WYmFJtStL+hSAFaCRiDkgynVCMDJ0=
+github.com/shohrukh56/DI v0.0.0-20200318071152-0e1df60fd690/go.mod h1:a0sdiwWhrJf0wqF9FMyJ7Lt0NCNVSEs/8uFlNQPm3e4=
+github.com/shohrukh56/mux v0.0.0-20200318073734-52bb099d873b h1:8UCu5+PMGoa3d0vwJY5s1DmCxMcJEvbJvuWvMbBtyZk=
+github.com/shohrukh56/mux v0.0.0-20200318073734-52bb099d873b/go.mod h1:YhB68llHBnP1ZQQazAWdREYW6VWAYgAtRvwI+3w4f5s=
+github.com/shohrukh56/rest v0.0.0-20200318072625-db364ac8b686 h1:maod6kB8b9O4Tp4HbV5Zwzo23uTFlLJexJowngKsH7s=
+github.com/shohrukh56/rest v0.0.0-20200318072625-db364ac8b686/go.mod h1:67s/HHi1WJtyuPbGv/1UB0c993LmaBvyIef1TXpstXk=
