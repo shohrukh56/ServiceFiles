@@ -21,7 +21,6 @@ To get file  type
 	GET http://address/file/8f90bec4-abbd-41bf-a86c-41e9744cc03b
 `
 )
-
 const (
 	defaultMaxMemory = 32 << 20 // 32 MB
 	contentTypeHtml  = "text/html"
