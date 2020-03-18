@@ -17,13 +17,8 @@ var (
 	ext = make(map[string]string)
 
 	content = `
-- For upload 
-  	POST http://thisADDRESS/save
- 	 Content-Type: multipart/form-data;
-		Your body
-	then server returns JSON with key "name"" of your upload value "{{HASH}}" 
-- For get file 
-	GET http://thisADDRESS/file/d445403b-1582-476f-bc69-e1e89d42a2dd
+To get file  type
+	GET http://address/file/8f90bec4-abbd-41bf-a86c-41e9744cc03b
 `
 )
 
